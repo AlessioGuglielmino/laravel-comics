@@ -11,6 +11,6 @@
 
     <header>@yield('nav')</header>
     <main>@yield('main-content')</main>
-    <footer></footer>
+    <footer>@yield('footer')</footer>
 </body>
 </html>
